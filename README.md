@@ -1,5 +1,9 @@
 # Script de Jail pour FiveM
 
+## 👀 Preview
+
+**[PREVIEW](https://www.youtube.com/watch?v=6MCqXg_Qd6s)**
+
 ## Description
 Ce script permet de gérer un système de jail sur votre serveur FiveM avec les fonctionnalités suivantes :
 - Jail de joueurs avec durée personnalisable
